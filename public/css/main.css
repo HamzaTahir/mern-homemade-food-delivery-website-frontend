@@ -1,0 +1,95 @@
+ol, ul {
+  list-style: none;
+  text-decoration: none;
+}
+li > a{
+  /* color: white; */
+  text-decoration: none;
+}
+li > a:hover { 
+  text-decoration: none; 
+} 
+.footer-social {
+  margin-top: 17px;
+}
+
+.footer-social > li > a {
+  color: white;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.footer {
+  background-color: #000000;
+  border-top: 5px solid #062033;
+  color: #fff;
+  padding-top: 5em;
+}
+
+.footer a:hover {
+  color: #F40009;
+}
+
+.footer h6 {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 30px;
+}
+
+.about-us p {
+  line-height: 24px;
+}
+
+.footer-single .subscribe {
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.footer-single {
+  line-height: 24px;
+}
+
+.footer-single li {
+  line-height: 32px;
+}
+
+.footer-single p i {
+  margin: 0 10px;
+}
+
+.credit a {
+  color: #062033;
+}
+
+.credit a:hover {
+  color: #fff;
+}
+
+.copyright {
+  color: #fff;
+  margin-top: 20px;
+}
+
+.nav-tabs .nav-link {
+  border: 0;
+}
+
+.nav-tabs .nav-link:hover {
+  color: red;
+}
+
+.subscribe #subscribe {
+  background-color: transparent;
+  border: 1px solid #fff;
+  border-radius: 2px;
+  height: 40px;
+  text-indent: 10px;
+  width: 80%;
+}
+.subscribe #subs{
+    border: 7.5px solid #fff;
+    height: 40px;
+    text-indent: 10px;
+    width: 20%;
+}
